@@ -1,8 +1,6 @@
-# Game_Playing_Adversarial_search
-
 # Rollerball Chess
 
-Welcome to the repository for my Rollerball Chess AI project.
+Welcome to the repository for our Rollerball Chess AI project.
 
 ## Overview
 
@@ -17,7 +15,12 @@ This project is an AI-based implementation of the game Rollerball Chess. The AI 
 
 ## Implementation
 
-I implemented the game logic and adversarial search algorithms, including minimax and alpha-beta pruning, to create a strategic AI player for Rollerball Chess. The AI evaluates positions and makes optimal moves to outplay opponents.
+We, in collaboration with Sharad Kumar and Bedanta Bhaumik, implemented the game logic and adversarial search algorithms, including minimax and alpha-beta pruning, to create a strategic AI player for Rollerball Chess. The AI evaluates positions and makes optimal moves to outplay opponents.
+
+## Collaborators
+
+- Sharad Kumar
+- Bedanta Bhaumik
 
 ## Repository Structure
 
@@ -41,4 +44,4 @@ To run the Rollerball Chess AI, follow these steps:
 
 The AI has been tested against various AI opponents, and its performance has been evaluated based on scoring metrics. It demonstrates strategic gameplay and strong decision-making abilities.
 
-Feel free to explore this repository and enjoy a game of Rollerball Chess against my AI opponent!
+Feel free to explore this repository and enjoy a game of Rollerball Chess against our AI opponent!
